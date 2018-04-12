@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: io.get-coursier:sbt-coursier:1.0.2:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/scala_2.10/sbt_0.13/io.get-coursier/sbt-coursier/jars/sbt-coursier-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/scala_2.10/sbt_0.13/io.get-coursier/sbt-coursier/srcs/sbt-coursier-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

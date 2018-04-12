@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="project" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../target/scala-2.10/classes" />
+    <output-test url="file://$MODULE_DIR$/../../target/scala-2.10/test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/scala" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/scala-2.10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/scala" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/scala-2.10" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../target/scala-2.10/src_managed/main" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../target/scala-2.10/src_managed/test" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../target/scala-2.10/resource_managed/main" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../target/scala-2.10/resource_managed/test" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="SBT: args4j:args4j:2.0.26:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.webjars:envjs:1.2:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scalaz:scalaz-effect_2.10:7.2.16:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scalaz:scalaz-core_2.10:7.2.16:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scalaz:scalaz-concurrent_2.10:7.2.16:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scalastyle:scalastyle_2.10:0.8.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scalariform:scalariform_2.10:0.1.7:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scalamacros:quasiquotes_2.10:2.1.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scalaj:scalaj-http_2.10:2.2.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-sbt:test-interface:1.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-lang:scala-reflect:2.10.6:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-lang:scala-library:2.10.6:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-js:scalajs-tools_2.10:0.6.22:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-js:scalajs-sbt-test-adapter_2.10:0.6.22:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-js:scalajs-js-envs_2.10:0.6.22:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-js:scalajs-ir_2.10:0.6.22:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-js:sbt-scalajs:0.6.22:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-js:closure-compiler-java-6:v20160517:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-js:closure-compiler-externs-java-6:v20160517:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.apache.commons:commons-lang3:3.4:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.get-coursier:sbt-shared:1.0.2:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.get-coursier:sbt-coursier:1.0.2:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.get-coursier:coursier_2.10:1.0.2:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.get-coursier:coursier-extra_2.10:1.0.2:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.get-coursier:coursier-cache_2.10:1.0.2:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.apigee:rhino:1.7R5pre4:jar" level="project" />
+    <orderEntry type="library" name="SBT: commons-codec:commons-codec:1.10:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.typesafe.sbteclipse:sbteclipse-plugin:5.2.4:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.typesafe:config:1.2.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.googlecode.json-simple:json-simple:1.1.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.google.protobuf:protobuf-java:2.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.google.guava:guava:19.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.google.code.gson:gson:2.2.4:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.google.code.findbugs:jsr305:1.3.9:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.dwijnand:sbt-compat:1.2.5:jar" level="project" />
+  </component>
+</module>
